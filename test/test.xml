@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package_profile>
+	<id>a050e0f1-29c9-443b-9a52-f57c7dcb5974</id>
+	<name>test</name>
+	<version>1</version>
+	<description />
+	<copyright>
+		<license_policy>OPRoS</license_policy>
+		<company>
+			<name />
+			<phone />
+			<address />
+			<homepage />
+		</company>
+	</copyright>
+	<subcomponents>
+		<subcomponent read_only="0" layout="120,108,333,253">
+			<node_id>robot1.node1</node_id>
+			<name>LaserScannerComp</name>
+			<id>5fc7052f-6271-441f-abe3-947a0355df45</id>
+			<version>1.0</version>
+			<type>original</type>
+			<reference>LaserScannerComp.xml</reference>
+			<port_layouts>
+				<port_layout port_name="LaserScannerService" port_type="service" port_dir="provided" layout="316,345,137,47" />
+				<port_layout port_name="laserScannerData" port_type="data" port_dir="output" layout="160,345,114,47" />
+			</port_layouts>
+		</subcomponent>
+		<subcomponent read_only="0" layout="680,72,250,200">
+			<node_id />
+			<name>NavigationComp</name>
+			<id>dbfe2855-80fc-4618-9f42-f1623d2cd738</id>
+			<version>1.0</version>
+			<type>original</type>
+			<reference>NavigationComp.xml</reference>
+			<port_layouts>
+				<port_layout port_name="GlobalMapService" port_type="service" port_dir="provided" layout="914,240,146,32" />
+				<port_layout port_name="ObstacleAvoidanceService" port_type="service" port_dir="required" layout="497,240,199,32" />
+				<port_layout port_name="PathPlanningService" port_type="service" port_dir="required" layout="534,111,162,32" />
+				<port_layout port_name="SLAMService" port_type="service" port_dir="required" layout="914,202,114,32" />
+				<port_layout port_name="velocity" port_type="data" port_dir="output" layout="914,142,78,32" />
+			</port_layouts>
+		</subcomponent>
+		<subcomponent read_only="0" layout="109,540,250,200">
+			<node_id />
+			<name>SLAMComp</name>
+			<id>97682949-1e1a-4667-9e8e-fbc27b9f2185</id>
+			<version>1.0</version>
+			<type>original</type>
+			<reference>SLAMComp.xml</reference>
+			<port_layouts>
+				<port_layout port_name="SLAMService" port_type="service" port_dir="provided" layout="343,602,114,32" />
+				<port_layout port_name="LaserScannerService" port_type="service" port_dir="required" layout="343,540,169,32" />
+				<port_layout port_name="MobileControllerService" port_type="service" port_dir="required" layout="343,692,180,32" />
+			</port_layouts>
+		</subcomponent>
+		<subcomponent read_only="0" layout="768,540,250,200">
+			<node_id />
+			<name>VisibilityGraphPathPlanningComp</name>
+			<id>da5ceef0-d75d-423f-a89d-afbc4198e6ad</id>
+			<version>1.0</version>
+			<type>original</type>
+			<reference>VisibilityGraphPathPlanningComp.xml</reference>
+			<port_layouts>
+				<port_layout port_name="PathPlanningService" port_type="service" port_dir="provided" layout="1002,708,162,32" />
+				<port_layout port_name="GlobalMapService" port_type="service" port_dir="required" layout="1002,633,146,32" />
+			</port_layouts>
+		</subcomponent>
+	</subcomponents>
+	<topics />
+	<port_connections>
+		<port_connection port_type="service">
+			<source component_name="LaserScannerTestComp" port_name="LaserScannerService" />
+			<target component_name="LaserScannerComp" port_name="LaserScannerService" />
+			<bend_points />
+		</port_connection>
+		<port_connection port_type="service">
+			<source component_name="SLAMComp" port_name="LaserScannerService" />
+			<target component_name="LaserScannerComp" port_name="LaserScannerService" />
+			<bend_points />
+		</port_connection>
+		<port_connection port_type="service">
+			<source component_name="NavigationComp" port_name="SLAMService" />
+			<target component_name="SLAMComp" port_name="SLAMService" />
+			<bend_points />
+		</port_connection>
+		<port_connection port_type="service">
+			<source component_name="VisibilityGraphPathPlanningComp" port_name="GlobalMapService" />
+			<target component_name="NavigationComp" port_name="GlobalMapService" />
+			<bend_points />
+		</port_connection>
+	</port_connections>
+</package_profile>
+

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component_profile>
+	<id>c632b2d5-ab35-4273-8286-671ac4ec11f8</id>
+	<name>KITECH_HSVColorRecognitionComp</name>
+	<version>1.0</version>
+	<layout>852,441,250,200</layout>
+	<collapsed>0</collapsed>
+	<copyright>
+		<company>
+			<name />
+			<phone />
+			<address />
+			<homepage />
+		</company>
+		<license_policy />
+	</copyright>
+	<execution_environment>
+		<library_type>dll</library_type>
+		<library_name>KITECH_HSVColorRecognitionComp.dll</library_name>
+		<impl_language>MSVC C++</impl_language>
+		<compiler>MSVC</compiler>
+		<app_domain />
+		<app_robot />
+	</execution_environment>
+	<execution_semantics>
+		<type>periodic</type>
+		<period>100</period>
+		<priority>5</priority>
+		<instance_creation>singleton</instance_creation>
+	</execution_semantics>
+	<properties>
+		<property name="DBName" type="string">color.xml</property>
+	</properties>
+	<data_type_list />
+	<defined_data_types />
+	<defined_service_types>
+		<defined_service_type>VisionRecognitionService.xml</defined_service_type>
+	</defined_service_types>
+	<exports />
+	<ports>
+		<service_port>
+			<name>VisionRecognitionService</name>
+			<description />
+			<type>VisionRecognitionService</type>
+			<usage>provided</usage>
+			<reference>VisionRecognitionService.xml</reference>
+			<layout>1086,482,191,32</layout>
+		</service_port>
+	</ports>
+</component_profile>
+

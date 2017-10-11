@@ -1,0 +1,9 @@
+﻿  Hokuyo_SCIP_V2_0.cpp
+Hokuyo_SCIP_V2_0.cpp(615): warning C4474: 'sprintf' : too many arguments passed for format string
+  Hokuyo_SCIP_V2_0.cpp(615): note: placeholders and their parameters expect 3 variadic arguments, but 5 were provided
+     Creating library C:\Users\opros\Desktop\laser_deviceAPI\Hokuyo_SCIP_V2_0\Release\Hokuyo_SCIP_V2_0.lib and object C:\Users\opros\Desktop\laser_deviceAPI\Hokuyo_SCIP_V2_0\Release\Hokuyo_SCIP_V2_0.exp
+  Generating code
+  All 537 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Hokuyo_SCIP_V2_0.vcxproj -> C:\Users\opros\Desktop\laser_deviceAPI\Hokuyo_SCIP_V2_0\Release\Hokuyo_SCIP_V2_0.dll
+  Hokuyo_SCIP_V2_0.vcxproj -> C:\Users\opros\Desktop\laser_deviceAPI\Hokuyo_SCIP_V2_0\Release\Hokuyo_SCIP_V2_0.pdb (Full PDB)

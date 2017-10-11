@@ -1,0 +1,7 @@
+Manifest-Version:1.0
+Archive-type:OPRoS_Component
+Archive-name:MobilTestComp.tar
+Archive-description:
+Archive-Element:MobilTestComp.xml
+Shared-library:lib/
+

@@ -1,0 +1,7 @@
+Manifest-Version:1.0
+Archive-type:OPRoS_Component
+Archive-name:CameraComp.tar
+Archive-description:
+Archive-Element:CameraComp.xml
+Shared-library:lib/
+

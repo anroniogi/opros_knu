@@ -1,0 +1,7 @@
+﻿  Hokuyo_SCIP_V2_0.cpp
+c:\opros_2015\worskpace_170904\hokuyo_scip_v2_0\hokuyo_scip_v2_0.cpp(614): warning C4474: 'sprintf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  c:\opros_2015\worskpace_170904\hokuyo_scip_v2_0\hokuyo_scip_v2_0.cpp(614): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 3개 필요하지만 5개가 제공되었습니다.
+Hokuyo_SCIP_V2_0.obj : warning LNK4075: '/EDITANDCONTINUE'이(가) '/SAFESEH' 사양으로 인해 무시됩니다.
+     C:\OPRoS_2015\worskpace_170904\Hokuyo_SCIP_V2_0\Debug\Hokuyo_SCIP_V2_0.lib 라이브러리 및 C:\OPRoS_2015\worskpace_170904\Hokuyo_SCIP_V2_0\Debug\Hokuyo_SCIP_V2_0.exp 개체를 생성하고 있습니다.
+  Hokuyo_SCIP_V2_0.vcxproj -> C:\OPRoS_2015\worskpace_170904\Hokuyo_SCIP_V2_0\Debug\Hokuyo_SCIP_V2_0.dll
+  Hokuyo_SCIP_V2_0.vcxproj -> C:\OPRoS_2015\worskpace_170904\Hokuyo_SCIP_V2_0\Debug\Hokuyo_SCIP_V2_0.pdb (Full PDB)

@@ -1,0 +1,7 @@
+Manifest-Version:1.0
+Archive-type:OPRoS_Component
+Archive-name:KeyInputComp.tar
+Archive-description:
+Archive-Element:KeyInputComp.xml
+Shared-library:lib/
+

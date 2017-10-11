@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package_profile>
+	<id>60a97582-6232-4537-97a2-558f25e2ed0c</id>
+	<name>a</name>
+	<version>1</version>
+	<description />
+	<copyright>
+		<license_policy>OPRoS</license_policy>
+		<company>
+			<name />
+			<phone />
+			<address />
+			<homepage />
+		</company>
+	</copyright>
+	<subcomponents>
+		<subcomponent read_only="0" layout="205,240,250,200">
+			<node_id>robot1.node1</node_id>
+			<name>KeyInputComp</name>
+			<id>e48e9b51-4b3b-495f-bda7-a0b93d3c2d2c</id>
+			<version>1.0</version>
+			<type>original</type>
+			<reference>KeyInputComp.xml</reference>
+			<port_layouts>
+				<port_layout port_name="KeyInputService" port_type="service" port_dir="provided" layout="355,424,100,47" />
+				<port_layout port_name="OutputKeyInputData" port_type="data" port_dir="output" layout="439,348,154,32" />
+			</port_layouts>
+		</subcomponent>
+		<subcomponent read_only="0" layout="700,550,250,200">
+			<node_id>robot1.node1</node_id>
+			<name>ControllComp</name>
+			<id>7510d83d-e0a5-4019-aa33-7b99dfd67fe1</id>
+			<version>1.0</version>
+			<type>original</type>
+			<reference>ControllComp.xml</reference>
+			<port_layouts>
+				<port_layout port_name="KeyInputService" port_type="service" port_dir="required" layout="934,718,132,32" />
+				<port_layout port_name="LaserScannerService" port_type="service" port_dir="required" layout="934,633,169,32" />
+			</port_layouts>
+		</subcomponent>
+		<subcomponent read_only="0" layout="622,132,250,200">
+			<node_id />
+			<name>MobilTestComp</name>
+			<id>84f3377a-65e4-4f41-8ab4-e50a82396c9a</id>
+			<version>1.0</version>
+			<type>original</type>
+			<reference>MobilTestComp.xml</reference>
+			<port_layouts>
+				<port_layout port_name="MobileControllerService" port_type="service" port_dir="required" layout="856,300,180,32" />
+			</port_layouts>
+		</subcomponent>
+	</subcomponents>
+	<topics />
+	<port_connections>
+		<port_connection port_type="service">
+			<source component_name="ControllComp" port_name="KeyInputService" />
+			<target component_name="KeyInputComp" port_name="KeyInputService" />
+			<bend_points />
+		</port_connection>
+	</port_connections>
+</package_profile>
+

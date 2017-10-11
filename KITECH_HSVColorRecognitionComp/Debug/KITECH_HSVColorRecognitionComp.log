@@ -1,0 +1,85 @@
+﻿  KITECH_HSVColorRecognitionComp.cpp
+c:\opros_2015\worskpace_170904\kitech_hsvcolorrecognitioncomp\visionrecognitionserviceprovided.h(38): error C2061: 구문 오류: 식별자 'vector'
+c:\opros_2015\worskpace_170904\kitech_hsvcolorrecognitioncomp\visionrecognitionserviceprovided.h(70): error C2039: 'VisionRecognitionResultData': 'OPRoS'의 멤버가 아닙니다.
+  c:\opros_2015\opros_external_package\visualstudio2015\include\device\visionrecognitionresultdata.h(6): note: 'OPRoS' 선언을 참조하십시오.
+c:\opros_2015\worskpace_170904\kitech_hsvcolorrecognitioncomp\visionrecognitionserviceprovided.h(70): error C2065: 'VisionRecognitionResultData': 선언되지 않은 식별자입니다.
+c:\opros_2015\worskpace_170904\kitech_hsvcolorrecognitioncomp\visionrecognitionserviceprovided.h(70): error C2923: 'std::vector': 'VisionRecognitionResultData'은(는) '_Ty' 매개 변수에 대한 올바른 템플릿 형식 인수가 아닙니다.
+c:\opros_2015\worskpace_170904\kitech_hsvcolorrecognitioncomp\visionrecognitionserviceprovided.h(70): error C3203: 'allocator': 특수화되지 않은 클래스 템플릿은(는) 템플릿 매개 변수 '_Alloc'에 대한 템플릿 인수로 사용할 수 없습니다. 실제 형식이 필요합니다.
+c:\opros_2015\worskpace_170904\kitech_hsvcolorrecognitioncomp\visionrecognitionserviceprovided.h(70): error C3203: 'vector': 특수화되지 않은 클래스 템플릿은(는) 템플릿 매개 변수 'RetType'에 대한 템플릿 인수로 사용할 수 없습니다. 실제 형식이 필요합니다.
+c:\opros_2015\worskpace_170904\kitech_hsvcolorrecognitioncomp\visionrecognitionserviceprovided.h(110): error C2039: 'VisionRecognitionResultData': 'OPRoS'의 멤버가 아닙니다.
+  c:\opros_2015\opros_external_package\visualstudio2015\include\device\visionrecognitionresultdata.h(6): note: 'OPRoS' 선언을 참조하십시오.
+c:\opros_2015\worskpace_170904\kitech_hsvcolorrecognitioncomp\visionrecognitionserviceprovided.h(110): error C2065: 'VisionRecognitionResultData': 선언되지 않은 식별자입니다.
+c:\opros_2015\worskpace_170904\kitech_hsvcolorrecognitioncomp\visionrecognitionserviceprovided.h(110): error C2923: 'std::vector': 'VisionRecognitionResultData'은(는) '_Ty' 매개 변수에 대한 올바른 템플릿 형식 인수가 아닙니다.
+c:\opros_2015\worskpace_170904\kitech_hsvcolorrecognitioncomp\visionrecognitionserviceprovided.h(110): error C3203: 'allocator': 특수화되지 않은 클래스 템플릿은(는) 템플릿 매개 변수 '_Alloc'에 대한 템플릿 인수로 사용할 수 없습니다. 실제 형식이 필요합니다.
+c:\opros_2015\worskpace_170904\kitech_hsvcolorrecognitioncomp\visionrecognitionserviceprovided.h(110): error C2061: 구문 오류: 식별자 'vector'
+c:\opros_2015\worskpace_170904\kitech_hsvcolorrecognitioncomp\visionrecognitionserviceprovided.h(110): error C2555: 'VisionRecognitionServiceProvided::Recognize': 'IVisionRecognitionService::Recognize'과(와) 재정의 가상 함수의 반환 형식이 다르거나 공변(covariant)이 아닙니다.
+  c:\opros_2015\worskpace_170904\kitech_hsvcolorrecognitioncomp\visionrecognitionserviceprovided.h(38): note: 'IVisionRecognitionService::Recognize' 선언을 참조하십시오.
+c:\opros_2015\worskpace_170904\kitech_hsvcolorrecognitioncomp\visionrecognitionserviceprovided.h(114): error C2065: 'image': 선언되지 않은 식별자입니다.
+c:\opros_2015\worskpace_170904\kitech_hsvcolorrecognitioncomp\visionrecognitionserviceprovided.h(114): error C2065: 'width': 선언되지 않은 식별자입니다.
+c:\opros_2015\worskpace_170904\kitech_hsvcolorrecognitioncomp\visionrecognitionserviceprovided.h(114): error C2065: 'height': 선언되지 않은 식별자입니다.
+c:\opros_2015\worskpace_170904\kitech_hsvcolorrecognitioncomp\visionrecognitionserviceprovided.h(114): error C2065: 'pixelBytes': 선언되지 않은 식별자입니다.
+c:\opros_2015\worskpace_170904\kitech_hsvcolorrecognitioncomp\kitech_hsvcolorrecognitioncomp.cpp(42): error C2039: 'VisionRecognitionResultData': 'OPRoS'의 멤버가 아닙니다.
+  c:\opros_2015\opros_external_package\visualstudio2015\include\device\visionrecognitionresultdata.h(6): note: 'OPRoS' 선언을 참조하십시오.
+c:\opros_2015\worskpace_170904\kitech_hsvcolorrecognitioncomp\kitech_hsvcolorrecognitioncomp.cpp(42): error C2065: 'VisionRecognitionResultData': 선언되지 않은 식별자입니다.
+c:\opros_2015\worskpace_170904\kitech_hsvcolorrecognitioncomp\kitech_hsvcolorrecognitioncomp.cpp(42): error C2923: 'std::vector': 'VisionRecognitionResultData'은(는) '_Ty' 매개 변수에 대한 올바른 템플릿 형식 인수가 아닙니다.
+c:\opros_2015\worskpace_170904\kitech_hsvcolorrecognitioncomp\kitech_hsvcolorrecognitioncomp.cpp(42): error C3203: 'allocator': 특수화되지 않은 클래스 템플릿은(는) 템플릿 매개 변수 '_Alloc'에 대한 템플릿 인수로 사용할 수 없습니다. 실제 형식이 필요합니다.
+c:\opros_2015\worskpace_170904\kitech_hsvcolorrecognitioncomp\kitech_hsvcolorrecognitioncomp.cpp(43): error C2556: 'std::vector KITECH_HSVColorRecognitionComp::Recognize(std::vector<uchar,std::allocator<_Ty>>,int,int,int)': 오버로드된 함수가 'std::vector<OPRoS::VisionRecognitionResult,std::allocator<_Ty>> KITECH_HSVColorRecognitionComp::Recognize(std::vector<uchar,std::allocator<unsigned char>>,int,int,int)'과(와) 반환 형식만 다릅니다.
+          with
+          [
+              _Ty=uchar
+          ]
+          and
+          [
+              _Ty=OPRoS::VisionRecognitionResult
+          ]
+  c:\opros_2015\worskpace_170904\kitech_hsvcolorrecognitioncomp\kitech_hsvcolorrecognitioncomp.h(30): note: 'KITECH_HSVColorRecognitionComp::Recognize' 선언을 참조하십시오.
+c:\opros_2015\worskpace_170904\kitech_hsvcolorrecognitioncomp\kitech_hsvcolorrecognitioncomp.cpp(42): error C2371: 'KITECH_HSVColorRecognitionComp::Recognize': 재정의. 기본 형식이 다릅니다.
+  c:\opros_2015\worskpace_170904\kitech_hsvcolorrecognitioncomp\kitech_hsvcolorrecognitioncomp.h(30): note: 'KITECH_HSVColorRecognitionComp::Recognize' 선언을 참조하십시오.
+c:\opros_2015\worskpace_170904\kitech_hsvcolorrecognitioncomp\kitech_hsvcolorrecognitioncomp.cpp(47): error C2039: 'VisionRecognitionResultData': 'OPRoS'의 멤버가 아닙니다.
+  c:\opros_2015\opros_external_package\visualstudio2015\include\device\visionrecognitionresultdata.h(6): note: 'OPRoS' 선언을 참조하십시오.
+c:\opros_2015\worskpace_170904\kitech_hsvcolorrecognitioncomp\kitech_hsvcolorrecognitioncomp.cpp(47): error C2065: 'VisionRecognitionResultData': 선언되지 않은 식별자입니다.
+c:\opros_2015\worskpace_170904\kitech_hsvcolorrecognitioncomp\kitech_hsvcolorrecognitioncomp.cpp(47): error C2923: 'std::vector': 'VisionRecognitionResultData'은(는) '_Ty' 매개 변수에 대한 올바른 템플릿 형식 인수가 아닙니다.
+c:\opros_2015\worskpace_170904\kitech_hsvcolorrecognitioncomp\kitech_hsvcolorrecognitioncomp.cpp(47): error C3203: 'allocator': 특수화되지 않은 클래스 템플릿은(는) 템플릿 매개 변수 '_Alloc'에 대한 템플릿 인수로 사용할 수 없습니다. 실제 형식이 필요합니다.
+c:\opros_2015\worskpace_170904\kitech_hsvcolorrecognitioncomp\kitech_hsvcolorrecognitioncomp.cpp(47): error C2514: 'std::vector': 클래스에 생성자가 없습니다.
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\vector(679): note: 'std::vector' 선언을 참조하십시오.
+c:\opros_2015\worskpace_170904\kitech_hsvcolorrecognitioncomp\kitech_hsvcolorrecognitioncomp.cpp(48): error C2039: 'VisionRecognitionResultData': 'OPRoS'의 멤버가 아닙니다.
+  c:\opros_2015\opros_external_package\visualstudio2015\include\device\visionrecognitionresultdata.h(6): note: 'OPRoS' 선언을 참조하십시오.
+c:\opros_2015\worskpace_170904\kitech_hsvcolorrecognitioncomp\kitech_hsvcolorrecognitioncomp.cpp(48): error C2065: 'VisionRecognitionResultData': 선언되지 않은 식별자입니다.
+c:\opros_2015\worskpace_170904\kitech_hsvcolorrecognitioncomp\kitech_hsvcolorrecognitioncomp.cpp(48): error C2146: 구문 오류: ';'이(가) 'tmpResult' 식별자 앞에 없습니다.
+c:\opros_2015\worskpace_170904\kitech_hsvcolorrecognitioncomp\kitech_hsvcolorrecognitioncomp.cpp(48): error C2065: 'tmpResult': 선언되지 않은 식별자입니다.
+c:\opros_2015\worskpace_170904\kitech_hsvcolorrecognitioncomp\kitech_hsvcolorrecognitioncomp.cpp(71): error C2065: 'tmpResult': 선언되지 않은 식별자입니다.
+c:\opros_2015\worskpace_170904\kitech_hsvcolorrecognitioncomp\kitech_hsvcolorrecognitioncomp.cpp(71): error C2228: '.name' 왼쪽에는 클래스/구조체/공용 구조체가 있어야 합니다.
+  c:\opros_2015\worskpace_170904\kitech_hsvcolorrecognitioncomp\kitech_hsvcolorrecognitioncomp.cpp(71): note: 'unknown-type' 형식입니다.
+c:\opros_2015\worskpace_170904\kitech_hsvcolorrecognitioncomp\kitech_hsvcolorrecognitioncomp.cpp(73): error C2065: 'tmpResult': 선언되지 않은 식별자입니다.
+c:\opros_2015\worskpace_170904\kitech_hsvcolorrecognitioncomp\kitech_hsvcolorrecognitioncomp.cpp(73): error C2228: '.point1X' 왼쪽에는 클래스/구조체/공용 구조체가 있어야 합니다.
+  c:\opros_2015\worskpace_170904\kitech_hsvcolorrecognitioncomp\kitech_hsvcolorrecognitioncomp.cpp(73): note: 'unknown-type' 형식입니다.
+c:\opros_2015\worskpace_170904\kitech_hsvcolorrecognitioncomp\kitech_hsvcolorrecognitioncomp.cpp(74): error C2065: 'tmpResult': 선언되지 않은 식별자입니다.
+c:\opros_2015\worskpace_170904\kitech_hsvcolorrecognitioncomp\kitech_hsvcolorrecognitioncomp.cpp(74): error C2228: '.point1Y' 왼쪽에는 클래스/구조체/공용 구조체가 있어야 합니다.
+  c:\opros_2015\worskpace_170904\kitech_hsvcolorrecognitioncomp\kitech_hsvcolorrecognitioncomp.cpp(74): note: 'unknown-type' 형식입니다.
+c:\opros_2015\worskpace_170904\kitech_hsvcolorrecognitioncomp\kitech_hsvcolorrecognitioncomp.cpp(75): error C2065: 'tmpResult': 선언되지 않은 식별자입니다.
+c:\opros_2015\worskpace_170904\kitech_hsvcolorrecognitioncomp\kitech_hsvcolorrecognitioncomp.cpp(75): error C2228: '.point2X' 왼쪽에는 클래스/구조체/공용 구조체가 있어야 합니다.
+  c:\opros_2015\worskpace_170904\kitech_hsvcolorrecognitioncomp\kitech_hsvcolorrecognitioncomp.cpp(75): note: 'unknown-type' 형식입니다.
+c:\opros_2015\worskpace_170904\kitech_hsvcolorrecognitioncomp\kitech_hsvcolorrecognitioncomp.cpp(76): error C2065: 'tmpResult': 선언되지 않은 식별자입니다.
+c:\opros_2015\worskpace_170904\kitech_hsvcolorrecognitioncomp\kitech_hsvcolorrecognitioncomp.cpp(76): error C2228: '.point2Y' 왼쪽에는 클래스/구조체/공용 구조체가 있어야 합니다.
+  c:\opros_2015\worskpace_170904\kitech_hsvcolorrecognitioncomp\kitech_hsvcolorrecognitioncomp.cpp(76): note: 'unknown-type' 형식입니다.
+c:\opros_2015\worskpace_170904\kitech_hsvcolorrecognitioncomp\kitech_hsvcolorrecognitioncomp.cpp(77): error C2065: 'tmpResult': 선언되지 않은 식별자입니다.
+c:\opros_2015\worskpace_170904\kitech_hsvcolorrecognitioncomp\kitech_hsvcolorrecognitioncomp.cpp(77): error C2228: '.point3X' 왼쪽에는 클래스/구조체/공용 구조체가 있어야 합니다.
+  c:\opros_2015\worskpace_170904\kitech_hsvcolorrecognitioncomp\kitech_hsvcolorrecognitioncomp.cpp(77): note: 'unknown-type' 형식입니다.
+c:\opros_2015\worskpace_170904\kitech_hsvcolorrecognitioncomp\kitech_hsvcolorrecognitioncomp.cpp(78): error C2065: 'tmpResult': 선언되지 않은 식별자입니다.
+c:\opros_2015\worskpace_170904\kitech_hsvcolorrecognitioncomp\kitech_hsvcolorrecognitioncomp.cpp(78): error C2228: '.point3Y' 왼쪽에는 클래스/구조체/공용 구조체가 있어야 합니다.
+  c:\opros_2015\worskpace_170904\kitech_hsvcolorrecognitioncomp\kitech_hsvcolorrecognitioncomp.cpp(78): note: 'unknown-type' 형식입니다.
+c:\opros_2015\worskpace_170904\kitech_hsvcolorrecognitioncomp\kitech_hsvcolorrecognitioncomp.cpp(79): error C2065: 'tmpResult': 선언되지 않은 식별자입니다.
+c:\opros_2015\worskpace_170904\kitech_hsvcolorrecognitioncomp\kitech_hsvcolorrecognitioncomp.cpp(79): error C2228: '.point4X' 왼쪽에는 클래스/구조체/공용 구조체가 있어야 합니다.
+  c:\opros_2015\worskpace_170904\kitech_hsvcolorrecognitioncomp\kitech_hsvcolorrecognitioncomp.cpp(79): note: 'unknown-type' 형식입니다.
+c:\opros_2015\worskpace_170904\kitech_hsvcolorrecognitioncomp\kitech_hsvcolorrecognitioncomp.cpp(80): error C2065: 'tmpResult': 선언되지 않은 식별자입니다.
+c:\opros_2015\worskpace_170904\kitech_hsvcolorrecognitioncomp\kitech_hsvcolorrecognitioncomp.cpp(80): error C2228: '.point4Y' 왼쪽에는 클래스/구조체/공용 구조체가 있어야 합니다.
+  c:\opros_2015\worskpace_170904\kitech_hsvcolorrecognitioncomp\kitech_hsvcolorrecognitioncomp.cpp(80): note: 'unknown-type' 형식입니다.
+c:\opros_2015\worskpace_170904\kitech_hsvcolorrecognitioncomp\kitech_hsvcolorrecognitioncomp.cpp(81): error C2065: 'tmpResult': 선언되지 않은 식별자입니다.
+c:\opros_2015\worskpace_170904\kitech_hsvcolorrecognitioncomp\kitech_hsvcolorrecognitioncomp.cpp(294): error C2259: 'KITECH_HSVColorRecognitionComp': 추상 클래스를 인스턴스화할 수 없습니다.
+  c:\opros_2015\worskpace_170904\kitech_hsvcolorrecognitioncomp\kitech_hsvcolorrecognitioncomp.cpp(294): note: 다음 멤버가 원인입니다.
+  c:\opros_2015\worskpace_170904\kitech_hsvcolorrecognitioncomp\kitech_hsvcolorrecognitioncomp.cpp(294): note: 'std::vector<OPRoS::VisionRecognitionResult,std::allocator<_Ty>> IVisionRecognitionService::Recognize(void)': abstract입니다.
+          with
+          [
+              _Ty=OPRoS::VisionRecognitionResult
+          ]
+  c:\opros_2015\worskpace_170904\kitech_hsvcolorrecognitioncomp\visionrecognitionserviceprovided.h(38): note: 'IVisionRecognitionService::Recognize' 선언을 참조하십시오.

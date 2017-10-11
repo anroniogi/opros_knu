@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component_profile>
+	<id>acc067bc-66d1-4b10-8371-2d9f2f3e2f9b</id>
+	<name>CameraComp</name>
+	<version>1.2</version>
+	<layout>12,36,877,697</layout>
+	<collapsed>0</collapsed>
+	<copyright>
+		<company>
+			<name>OPRoS</name>
+			<phone />
+			<address />
+			<homepage>www.oprospace.org</homepage>
+		</company>
+		<license_policy />
+	</copyright>
+	<execution_environment>
+		<library_type>dll</library_type>
+		<library_name>CameraComp.dll</library_name>
+		<impl_language>MSVC C++</impl_language>
+		<compiler>MSVC</compiler>
+		<app_domain />
+		<app_robot />
+	</execution_environment>
+	<execution_semantics>
+		<type>periodic</type>
+		<period>100</period>
+		<priority>5</priority>
+		<instance_creation>singleton</instance_creation>
+	</execution_semantics>
+	<properties>
+		<property name="Flip" type="int">2</property>
+		<property name="PixelBytes" type="int">3</property>
+		<property name="CameraID" type="int">1</property>
+		<property name="ApiName" type="std::string">CamOpenCVUsbCamera.dll</property>
+		<property name="Version" type="std::string">1.1</property>
+		<property name="ObjSen" type="OPRoS::ObjectPosition" />
+		<property name="Width" type="int32_t">640</property>
+		<property name="Height" type="int32_t">480</property>
+		<property name="ColorType" type="int32_t">1</property>
+		<property name="CompressType" type="int32_t">2</property>
+	</properties>
+	<data_type_list />
+	<defined_data_types />
+	<defined_service_types>
+		<defined_service_type>CameraService.xml</defined_service_type>
+	</defined_service_types>
+	<exports />
+	<ports>
+		<service_port>
+			<name>CameraService</name>
+			<description />
+			<type>CameraService</type>
+			<usage>provided</usage>
+			<reference>CameraService.xml</reference>
+			<layout>873,503,128,32</layout>
+		</service_port>
+		<data_port>
+			<name>imageData</name>
+			<description />
+			<data_type>OPRoS::CameraData</data_type>
+			<usage>output</usage>
+			<reference />
+			<layout>519,717,66,47</layout>
+		</data_port>
+	</ports>
+</component_profile>
+

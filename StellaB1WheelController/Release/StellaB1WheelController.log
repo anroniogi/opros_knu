@@ -1,0 +1,29 @@
+﻿빌드 시작: ’17.08.07 15:22:18
+     1>2 노드의 "C:\Users\소유자\Desktop\workspace_deviceAPI_170801\StellaB1WheelController\StellaB1WheelController.vcxproj" 프로젝트(build 대상)입니다.
+       프로젝트 파일에 이 버전의 MSBuild에서 지원되지 않는 ToolsVersion="14.0"이(가) 들어 있습니다. 프로젝트에 ToolsVersion="4.0"이 들어 있는 것으로 간주합니다.
+     1>InitializeBuildStatus:
+         "AlwaysCreate"이(가) 지정되었기 때문에 "Release\StellaB1WheelController.unsuccessfulbuild"을(를) 만들고 있습니다.
+       ClCompile:
+         모든 출력이 최신 상태입니다.
+       Link:
+         모든 출력이 최신 상태입니다.
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\소유자\Desktop\workspace_deviceAPI_170801\StellaB1WheelController\Release\StellaB1WheelController.dll" /NOLOGO /LIBPATH:"C:\Users\소유자\Desktop\OPRoS_IDE_v2.1.3_Windows(20160729) (1)\OPRoS_external_package\VisualStudio2010\Release\lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\StellaB1WheelController.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\소유자\Desktop\workspace_deviceAPI_170801\StellaB1WheelController\Release\StellaB1WheelController.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\소유자\Desktop\workspace_deviceAPI_170801\StellaB1WheelController\Release\StellaB1WheelController.lib" /MACHINE:X86 /DLL Release\SerialCommunication.obj
+         Release\SerialLinux.obj
+         Release\SerialWindows.obj
+         Release\StellaB1.obj
+         Release\StellaB1Tester.obj
+         Release\StellaB1WheelController.obj
+            C:\Users\소유자\Desktop\workspace_deviceAPI_170801\StellaB1WheelController\Release\StellaB1WheelController.lib 라이브러리 및 C:\Users\소유자\Desktop\workspace_deviceAPI_170801\StellaB1WheelController\Release\StellaB1WheelController.exp 개체를 생성하고 있습니다.
+         코드를 생성하고 있습니다.
+         코드를 생성했습니다.
+         StellaB1WheelController.vcxproj -> C:\Users\소유자\Desktop\workspace_deviceAPI_170801\StellaB1WheelController\Release\StellaB1WheelController.dll
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\소유자\Desktop\workspace_deviceAPI_170801\StellaB1WheelController\Release\StellaB1WheelController.dll;#2" /manifest Release\StellaB1WheelController.dll.intermediate.manifest
+       FinalizeBuildStatus:
+         "Release\StellaB1WheelController.unsuccessfulbuild" 파일을 삭제하고 있습니다.
+         "Release\StellaB1WheelController.lastbuildstate"에 연결(touching)하고 있습니다.
+     1>"C:\Users\소유자\Desktop\workspace_deviceAPI_170801\StellaB1WheelController\StellaB1WheelController.vcxproj" 프로젝트를 빌드했습니다(build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:02.62

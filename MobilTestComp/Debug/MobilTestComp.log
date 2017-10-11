@@ -1,0 +1,19 @@
+﻿  MobilTestComp.cpp
+  LINK : C:\OPRoS_2015\worskpace_170904\MobilTestComp\Debug\MobilTestComp.dll을(를) 찾을 수 없거나 마지막 증분 링크에 의해 빌드되지 않았습니다. 전체 링크를 수행하고 있습니다.
+MobilTestComp.obj : warning LNK4075: '/EDITANDCONTINUE'이(가) '/SAFESEH' 사양으로 인해 무시됩니다.
+     C:\OPRoS_2015\worskpace_170904\MobilTestComp\Debug\MobilTestComp.lib 라이브러리 및 C:\OPRoS_2015\worskpace_170904\MobilTestComp\Debug\MobilTestComp.exp 개체를 생성하고 있습니다.
+OPRoSCDLD.lib(Component.obj) : warning LNK4099: 'OPRoSCDL.pdb' PDB를 'OPRoSCDLD.lib(Component.obj)' 또는 'C:\OPRoS_2015\worskpace_170904\MobilTestComp\Debug\OPRoSCDL.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+OPRoSCDLD.lib(LifecycleInterface.obj) : warning LNK4099: 'OPRoSCDL.pdb' PDB를 'OPRoSCDLD.lib(LifecycleInterface.obj)' 또는 'C:\OPRoS_2015\worskpace_170904\MobilTestComp\Debug\OPRoSCDL.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+OPRoSCDLD.lib(Method.obj) : warning LNK4099: 'OPRoSCDL.pdb' PDB를 'OPRoSCDLD.lib(Method.obj)' 또는 'C:\OPRoS_2015\worskpace_170904\MobilTestComp\Debug\OPRoSCDL.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+OPRoSCDLD.lib(OPRoSUtility.obj) : warning LNK4099: 'OPRoSCDL.pdb' PDB를 'OPRoSCDLD.lib(OPRoSUtility.obj)' 또는 'C:\OPRoS_2015\worskpace_170904\MobilTestComp\Debug\OPRoSCDL.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+OPRoSCDLD.lib(Port.obj) : warning LNK4099: 'OPRoSCDL.pdb' PDB를 'OPRoSCDLD.lib(Port.obj)' 또는 'C:\OPRoS_2015\worskpace_170904\MobilTestComp\Debug\OPRoSCDL.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+OPRoSCDLD.lib(PortInterface.obj) : warning LNK4099: 'OPRoSCDL.pdb' PDB를 'OPRoSCDLD.lib(PortInterface.obj)' 또는 'C:\OPRoS_2015\worskpace_170904\MobilTestComp\Debug\OPRoSCDL.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+OPRoSCDLD.lib(PropertyInterface.obj) : warning LNK4099: 'OPRoSCDL.pdb' PDB를 'OPRoSCDLD.lib(PropertyInterface.obj)' 또는 'C:\OPRoS_2015\worskpace_170904\MobilTestComp\Debug\OPRoSCDL.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+OPRoSCDLD.lib(RequiredServicePort.obj) : warning LNK4099: 'OPRoSCDL.pdb' PDB를 'OPRoSCDLD.lib(RequiredServicePort.obj)' 또는 'C:\OPRoS_2015\worskpace_170904\MobilTestComp\Debug\OPRoSCDL.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+OPRoSCDLD.lib(ServicePort.obj) : warning LNK4099: 'OPRoSCDL.pdb' PDB를 'OPRoSCDLD.lib(ServicePort.obj)' 또는 'C:\OPRoS_2015\worskpace_170904\MobilTestComp\Debug\OPRoSCDL.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+OPRoSCDLD.lib(ServicePortInterface.obj) : warning LNK4099: 'OPRoSCDL.pdb' PDB를 'OPRoSCDLD.lib(ServicePortInterface.obj)' 또는 'C:\OPRoS_2015\worskpace_170904\MobilTestComp\Debug\OPRoSCDL.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+OPRoSCDLD.lib(opros_archive_common.obj) : warning LNK4099: 'OPRoSCDL.pdb' PDB를 'OPRoSCDLD.lib(opros_archive_common.obj)' 또는 'C:\OPRoS_2015\worskpace_170904\MobilTestComp\Debug\OPRoSCDL.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+OPRoSCDLD.lib(opros_iarchive.obj) : warning LNK4099: 'OPRoSCDL.pdb' PDB를 'OPRoSCDLD.lib(opros_iarchive.obj)' 또는 'C:\OPRoS_2015\worskpace_170904\MobilTestComp\Debug\OPRoSCDL.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+OPRoSCDLD.lib(opros_oarchive.obj) : warning LNK4099: 'OPRoSCDL.pdb' PDB를 'OPRoSCDLD.lib(opros_oarchive.obj)' 또는 'C:\OPRoS_2015\worskpace_170904\MobilTestComp\Debug\OPRoSCDL.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+  MobilTestComp.vcxproj -> C:\OPRoS_2015\worskpace_170904\MobilTestComp\Debug\MobilTestComp.dll
+  MobilTestComp.vcxproj -> C:\OPRoS_2015\worskpace_170904\MobilTestComp\Debug\MobilTestComp.pdb (Full PDB)

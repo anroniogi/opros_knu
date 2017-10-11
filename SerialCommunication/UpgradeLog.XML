@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SerialCommunication">
+</Property><Property Name="솔루션 파일" Value="D:\OPRoS_2.0\KNU_comps\mskimtest_Brill_1.0.0.0_201507\Debug\DeviceAPIs\SerialCommunication\SerialCommunication.sln">
+</Property><Property Name="Date" Value="2015년 7월 6일 월요일">
+</Property><Property Name="Time" Value="오후 16:05:21">
+</Property></Properties><Event ErrorLevel="0" Project="SerialCommunication" Source="SerialCommunication.vcproj" Description="Converting project file 'D:\OPRoS_2.0\KNU_comps\mskimtest_Brill_1.0.0.0_201507\Debug\DeviceAPIs\SerialCommunication\SerialCommunication.vcproj'.">
+</Event><Event ErrorLevel="1" Project="SerialCommunication" Source="SerialCommunication.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="SerialCommunication" Source="SerialCommunication.vcproj" Description="Done converting to new project file 'D:\OPRoS_2.0\KNU_comps\mskimtest_Brill_1.0.0.0_201507\Debug\DeviceAPIs\SerialCommunication\SerialCommunication.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="SerialCommunication" Source="SerialCommunication.vcproj" Description="Converted">
+</Event></UpgradeLog>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component_profile>
+	<id>6636d400-5e50-4106-8d05-02d1339cdd36</id>
+	<name>MobileControllerComp</name>
+	<version>1.0</version>
+	<layout>1236,263,250,200</layout>
+	<collapsed>0</collapsed>
+	<copyright>
+		<company>
+			<name />
+			<phone />
+			<address />
+			<homepage />
+		</company>
+		<license_policy />
+	</copyright>
+	<execution_environment>
+		<library_type>dll</library_type>
+		<library_name>MobileControllerComp.dll</library_name>
+		<impl_language>MSVC C++</impl_language>
+		<compiler>MSVC</compiler>
+		<app_domain />
+		<app_robot />
+	</execution_environment>
+	<execution_semantics>
+		<type>periodic</type>
+		<period>100</period>
+		<priority>5</priority>
+		<instance_creation>singleton</instance_creation>
+	</execution_semantics>
+	<properties>
+		<property name="TimeOut" type="int">1</property>
+		<property name="ApiName" type="std::string">StellaB1WheelController.dll</property>
+		<property name="PortName" type="int">COM3</property>
+		<property name="BaudRate" type="int">115200</property>
+		<property name="DataBits" type="int">8</property>
+		<property name="StopBits" type="int">0</property>
+		<property name="Parity" type="int">0</property>
+		<property name="FlowControl" type="int">0</property>
+		<property name="WheelDiameter" type="float">0.1504</property>
+		<property name="AxleDistance" type="float">0.289</property>
+		<property name="ReductionRatio" type="float">0.07142857142857142857142857142857</property>
+		<property name="EncoderCPR" type="float">256</property>
+		<property name="MaximumVelocity" type="float">5</property>
+		<property name="Acceleration" type="float">22.918311805232928350719261925642</property>
+		<property name="Deacceleration" type="float">5.7295779513082320876798154814105</property>
+		<property name="RightWheelAngleScaleFactor" type="float">0</property>
+		<property name="LeftWheelAngleScaleFactor" type="float">0</property>
+		<property name="RightWheelDistanceScaleFactor" type="float">0</property>
+		<property name="LeftWheelDistanceScaleFactor" type="float">0</property>
+		<property name="VelocityControlP" type="float">30</property>
+		<property name="VelocityControlI" type="float">200</property>
+		<property name="VelocityControlD" type="float">0.005</property>
+		<property name="VelocityControlIL" type="float">20</property>
+		<property name="PositionControlP" type="float">4.4726</property>
+		<property name="PositionControlI" type="float">0.015</property>
+		<property name="PositionControlD" type="float">7.0398</property>
+		<property name="PositionControlIL" type="float">100</property>
+	</properties>
+	<data_type_list />
+	<defined_data_types />
+	<defined_service_types>
+		<defined_service_type>MobileControllerService.xml</defined_service_type>
+	</defined_service_types>
+	<exports />
+	<ports>
+		<service_port>
+			<name>MobileControllerService</name>
+			<description />
+			<type>MobileControllerService</type>
+			<usage>provided</usage>
+			<reference>MobileControllerService.xml</reference>
+			<layout>1072,294,180,32</layout>
+		</service_port>
+		<data_port>
+			<name>velocity</name>
+			<description />
+			<data_type>OPRoS::MobileVelocityData</data_type>
+			<usage>input</usage>
+			<reference />
+			<queueing_policy>FIFO</queueing_policy>
+			<queue_size>10</queue_size>
+			<layout>1332,447,46,47</layout>
+		</data_port>
+	</ports>
+</component_profile>
+

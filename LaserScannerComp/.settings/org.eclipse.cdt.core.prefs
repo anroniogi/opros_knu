@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+environment/project/org.eclipse.cdt.msvc.dll.debug.648439552/LIB/delimiter=;
+environment/project/org.eclipse.cdt.msvc.dll.debug.648439552/LIB/operation=replace
+environment/project/org.eclipse.cdt.msvc.dll.debug.648439552/LIB/value=C\:\\Program Files (x86)\\Microsoft Visual Studio 14.0\\VC\\Lib;C\:\\Program Files (x86)\\Windows Kits\\10\\Lib\\10.0.10150.0\\ucrt\\x86;C\:\\Program Files\\Microsoft SDKs\\Windows\\v7.0A\\Lib
+environment/project/org.eclipse.cdt.msvc.dll.debug.648439552/append=true
+environment/project/org.eclipse.cdt.msvc.dll.debug.648439552/appendContributed=true
+environment/project/org.eclipse.cdt.msvc.dll.release.1809421447/LIB/delimiter=;
+environment/project/org.eclipse.cdt.msvc.dll.release.1809421447/LIB/operation=replace
+environment/project/org.eclipse.cdt.msvc.dll.release.1809421447/LIB/value=C\:\\Program Files (x86)\\Microsoft Visual Studio 14.0\\VC\\Lib;C\:\\Program Files (x86)\\Windows Kits\\10\\Lib\\10.0.10150.0\\ucrt\\x86;C\:\\Program Files\\Microsoft SDKs\\Windows\\v7.0A\\Lib
+environment/project/org.eclipse.cdt.msvc.dll.release.1809421447/append=true
+environment/project/org.eclipse.cdt.msvc.dll.release.1809421447/appendContributed=true

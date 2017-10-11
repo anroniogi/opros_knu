@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<service_port_type_profile>
+	<service_port_type>
+		<type_name>GlobalMapService</type_name>
+		<method name="GetMapCellSize" return_type="double" call_type="blocking" />
+		<method name="GetMapStartX" return_type="double" call_type="blocking" />
+		<method name="GetMapStartY" return_type="double" call_type="blocking" />
+		<method name="GetMapWidth" return_type="double" call_type="blocking" />
+		<method name="GetMapHeight" return_type="double" call_type="blocking" />
+		<method name="GetBinaryMap" return_type="std::vector&lt; std::vector&lt; bool &gt; &gt;" call_type="blocking" />
+	</service_port_type>
+</service_port_type_profile>
+

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component_profile>
+	<id>e48e9b51-4b3b-495f-bda7-a0b93d3c2d2c</id>
+	<name>KeyInputComp</name>
+	<version>1.0</version>
+	<layout>205,240,250,200</layout>
+	<collapsed>0</collapsed>
+	<copyright>
+		<company>
+			<name />
+			<phone />
+			<address />
+			<homepage />
+		</company>
+		<license_policy />
+	</copyright>
+	<execution_environment>
+		<library_type>dll</library_type>
+		<library_name>KeyInputComp.dll</library_name>
+		<impl_language>MSVC C++</impl_language>
+		<compiler>MSVC</compiler>
+		<app_domain />
+		<app_robot />
+	</execution_environment>
+	<execution_semantics>
+		<type>periodic</type>
+		<period>300</period>
+		<priority>5</priority>
+		<instance_creation>singleton</instance_creation>
+	</execution_semantics>
+	<properties />
+	<data_type_list />
+	<defined_data_types />
+	<defined_service_types>
+		<defined_service_type>KeyInputService.xml</defined_service_type>
+	</defined_service_types>
+	<exports />
+	<ports>
+		<service_port>
+			<name>KeyInputService</name>
+			<description />
+			<type>KeyInputService</type>
+			<usage>provided</usage>
+			<reference>KeyInputService.xml</reference>
+			<layout>355,424,100,47</layout>
+		</service_port>
+		<data_port>
+			<name>OutputKeyInputData</name>
+			<description />
+			<data_type>OPRoS::Int16</data_type>
+			<usage>output</usage>
+			<reference />
+			<layout>439,348,154,32</layout>
+		</data_port>
+	</ports>
+</component_profile>
+

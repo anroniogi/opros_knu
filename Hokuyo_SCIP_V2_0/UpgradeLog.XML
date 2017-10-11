@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Hokuyo_SCIP_V2_0">
+</Property><Property Name="솔루션 파일" Value="D:\opros_programs\OPRoS_IDE_v2.1.3_Windows_20160729\workspace_deviceAPI\Hokuyo_SCIP_V2_0\Hokuyo_SCIP_V2_0.sln">
+</Property><Property Name="Date" Value="2017년 8월 1일 화요일">
+</Property><Property Name="Time" Value="오후 12:55:43">
+</Property></Properties><Event ErrorLevel="0" Project="Hokuyo_SCIP_V2_0" Source="Hokuyo_SCIP_V2_0.vcproj" Description="Converting project file 'D:\opros_programs\OPRoS_IDE_v2.1.3_Windows_20160729\workspace_deviceAPI\Hokuyo_SCIP_V2_0\Hokuyo_SCIP_V2_0.vcproj'.">
+</Event><Event ErrorLevel="1" Project="Hokuyo_SCIP_V2_0" Source="Hokuyo_SCIP_V2_0.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="Hokuyo_SCIP_V2_0" Source="Hokuyo_SCIP_V2_0.vcproj" Description="Done converting to new project file 'D:\opros_programs\OPRoS_IDE_v2.1.3_Windows_20160729\workspace_deviceAPI\Hokuyo_SCIP_V2_0\Hokuyo_SCIP_V2_0.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="Hokuyo_SCIP_V2_0" Source="Hokuyo_SCIP_V2_0.vcproj" Description="Converted">
+</Event></UpgradeLog>

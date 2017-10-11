@@ -1,0 +1,7 @@
+Manifest-Version:1.0
+Archive-type:OPRoS_Component
+Archive-name:NavigationComp.tar
+Archive-description:
+Archive-Element:NavigationComp.xml
+Shared-library:lib/
+

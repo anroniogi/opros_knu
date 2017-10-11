@@ -1,0 +1,7 @@
+Manifest-Version:1.0
+Archive-type:OPRoS_Component
+Archive-name:MobileControllerComp.tar
+Archive-description:
+Archive-Element:MobileControllerComp.xml
+Shared-library:lib/
+

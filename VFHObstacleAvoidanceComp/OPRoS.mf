@@ -1,0 +1,7 @@
+Manifest-Version:1.0
+Archive-type:OPRoS_Component
+Archive-name:VFHObstacleAvoidanceComp.tar
+Archive-description:
+Archive-Element:VFHObstacleAvoidanceComp.xml
+Shared-library:lib/
+

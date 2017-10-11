@@ -1,0 +1,7 @@
+Manifest-Version:1.0
+Archive-type:OPRoS_Component
+Archive-name:SLAMComp.tar
+Archive-description:
+Archive-Element:SLAMComp.xml
+Shared-library:lib/
+

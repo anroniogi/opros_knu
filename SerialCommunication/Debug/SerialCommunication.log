@@ -1,0 +1,8 @@
+﻿  SerialWindows.cpp
+  SerialLinux.cpp
+  SerialCommunication.cpp
+  Generating Code...
+SerialCommunication.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+     Creating library C:\OPRoS_2015\worskpace_170904\SerialCommunication\Debug\SerialCommunication.lib and object C:\OPRoS_2015\worskpace_170904\SerialCommunication\Debug\SerialCommunication.exp
+  SerialCommunication.vcxproj -> C:\OPRoS_2015\worskpace_170904\SerialCommunication\Debug\SerialCommunication.dll
+  SerialCommunication.vcxproj -> C:\OPRoS_2015\worskpace_170904\SerialCommunication\Debug\SerialCommunication.pdb (Full PDB)

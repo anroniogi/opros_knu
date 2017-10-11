@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component_profile>
+	<id>7510d83d-e0a5-4019-aa33-7b99dfd67fe1</id>
+	<name>ControllComp</name>
+	<version>1.0</version>
+	<layout>700,550,250,200</layout>
+	<collapsed>0</collapsed>
+	<copyright>
+		<company>
+			<name />
+			<phone />
+			<address />
+			<homepage />
+		</company>
+		<license_policy />
+	</copyright>
+	<execution_environment>
+		<library_type>dll</library_type>
+		<library_name>ControllComp.dll</library_name>
+		<impl_language>MSVC C++</impl_language>
+		<compiler>MSVC</compiler>
+		<app_domain />
+		<app_robot />
+	</execution_environment>
+	<execution_semantics>
+		<type>periodic</type>
+		<period>500</period>
+		<priority>5</priority>
+		<instance_creation>singleton</instance_creation>
+	</execution_semantics>
+	<properties />
+	<data_type_list />
+	<defined_data_types />
+	<defined_service_types>
+		<defined_service_type>KeyInputService.xml</defined_service_type>
+		<defined_service_type>LaserScannerService.xml</defined_service_type>
+	</defined_service_types>
+	<exports>
+		<var name="counter" type="int" />
+	</exports>
+	<ports>
+		<service_port>
+			<name>KeyInputService</name>
+			<description />
+			<type>KeyInputService</type>
+			<usage>required</usage>
+			<reference>KeyInputService.xml</reference>
+			<layout>934,718,132,32</layout>
+		</service_port>
+		<service_port>
+			<name>LaserScannerService</name>
+			<description />
+			<type>LaserScannerService</type>
+			<usage>required</usage>
+			<reference>LaserScannerService.xml</reference>
+			<layout>934,633,169,32</layout>
+		</service_port>
+	</ports>
+</component_profile>
+

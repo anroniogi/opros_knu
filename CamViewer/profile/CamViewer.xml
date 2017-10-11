@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component_profile>
+	<id>0212322f-6491-4b85-ad7c-6208f3e88fc0</id>
+	<name>CamViewer</name>
+	<version>1.0</version>
+	<layout>931,400,250,200</layout>
+	<collapsed>0</collapsed>
+	<copyright>
+		<company>
+			<name />
+			<phone />
+			<address />
+			<homepage />
+		</company>
+		<license_policy />
+	</copyright>
+	<execution_environment>
+		<library_type>dll</library_type>
+		<library_name>CamViewer.dll</library_name>
+		<impl_language>MSVC C++</impl_language>
+		<compiler>MSVC</compiler>
+		<app_domain />
+		<app_robot />
+	</execution_environment>
+	<execution_semantics>
+		<type>periodic</type>
+		<period>100</period>
+		<priority>5</priority>
+		<instance_creation>singleton</instance_creation>
+	</execution_semantics>
+	<properties />
+	<data_type_list />
+	<defined_data_types />
+	<defined_service_types />
+	<exports />
+	<ports>
+		<data_port>
+			<name>imageData</name>
+			<description />
+			<data_type>OPRoS::CameraData</data_type>
+			<usage>input</usage>
+			<reference />
+			<queueing_policy>LAST</queueing_policy>
+			<queue_size>1</queue_size>
+			<layout>1165,568,98,32</layout>
+		</data_port>
+	</ports>
+</component_profile>
+

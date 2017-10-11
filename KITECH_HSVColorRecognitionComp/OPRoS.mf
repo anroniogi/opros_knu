@@ -1,0 +1,7 @@
+Manifest-Version:1.0
+Archive-type:OPRoS_Component
+Archive-name:KITECH_HSVColorRecognitionComp.tar
+Archive-description:
+Archive-Element:KITECH_HSVColorRecognitionComp.xml
+Shared-library:lib/
+

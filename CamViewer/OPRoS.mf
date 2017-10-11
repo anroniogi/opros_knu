@@ -1,0 +1,7 @@
+Manifest-Version:1.0
+Archive-type:OPRoS_Component
+Archive-name:CamViewer.tar
+Archive-description:
+Archive-Element:CamViewer.xml
+Shared-library:lib/
+

@@ -1,0 +1,20 @@
+﻿  VFHObstacleAvoidanceComp.cpp
+c:\opros_2015\worskpace_170904\vfhobstacleavoidancecomp\vfhobstacleavoidancecomp.h(132): warning C4244: 'return': 'double'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\opros_2015\worskpace_170904\vfhobstacleavoidancecomp\vfhobstacleavoidancecomp.cpp(211): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\opros_2015\worskpace_170904\vfhobstacleavoidancecomp\vfhobstacleavoidancecomp.cpp(434): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\opros_2015\worskpace_170904\vfhobstacleavoidancecomp\vfhobstacleavoidancecomp.cpp(435): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\opros_2015\worskpace_170904\vfhobstacleavoidancecomp\vfhobstacleavoidancecomp.cpp(456): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\opros_2015\worskpace_170904\vfhobstacleavoidancecomp\vfhobstacleavoidancecomp.cpp(467): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\opros_2015\worskpace_170904\vfhobstacleavoidancecomp\vfhobstacleavoidancecomp.cpp(468): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\opros_2015\worskpace_170904\vfhobstacleavoidancecomp\vfhobstacleavoidancecomp.cpp(479): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\opros_2015\worskpace_170904\vfhobstacleavoidancecomp\vfhobstacleavoidancecomp.cpp(480): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\opros_2015\worskpace_170904\vfhobstacleavoidancecomp\vfhobstacleavoidancecomp.cpp(483): warning C4244: '=': 'double'에서 'uchar'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\opros_2015\worskpace_170904\vfhobstacleavoidancecomp\vfhobstacleavoidancecomp.cpp(488): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\opros_2015\worskpace_170904\vfhobstacleavoidancecomp\vfhobstacleavoidancecomp.cpp(489): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\opros_2015\worskpace_170904\vfhobstacleavoidancecomp\vfhobstacleavoidancecomp.cpp(492): warning C4244: '=': 'double'에서 'uchar'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\opros_2015\worskpace_170904\vfhobstacleavoidancecomp\vfhobstacleavoidancecomp.cpp(596): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\opros_2015\worskpace_170904\vfhobstacleavoidancecomp\vfhobstacleavoidancecomp.cpp(599): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\opros_2015\worskpace_170904\vfhobstacleavoidancecomp\vfhobstacleavoidancecomp.cpp(603): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\opros_2015\worskpace_170904\vfhobstacleavoidancecomp\vfhobstacleavoidancecomp.cpp(606): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  VFHObstacleAvoidanceComp.vcxproj -> C:\OPRoS_2015\worskpace_170904\VFHObstacleAvoidanceComp\Debug\VFHObstacleAvoidanceComp.dll
+  VFHObstacleAvoidanceComp.vcxproj -> C:\OPRoS_2015\worskpace_170904\VFHObstacleAvoidanceComp\Debug\VFHObstacleAvoidanceComp.pdb (Full PDB)

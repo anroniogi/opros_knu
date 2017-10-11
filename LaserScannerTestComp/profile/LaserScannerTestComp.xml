@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component_profile>
+	<id>048909a7-2507-4f37-90cc-0d428f4cb704</id>
+	<name>LaserScannerTestComp</name>
+	<version>1.0</version>
+	<layout>432,603,250,200</layout>
+	<collapsed>0</collapsed>
+	<copyright>
+		<company>
+			<name />
+			<phone />
+			<address />
+			<homepage />
+		</company>
+		<license_policy />
+	</copyright>
+	<execution_environment>
+		<library_type>dll</library_type>
+		<library_name>LaserScannerTestComp.dll</library_name>
+		<impl_language>MSVC C++</impl_language>
+		<compiler>MSVC</compiler>
+		<app_domain />
+		<app_robot />
+	</execution_environment>
+	<execution_semantics>
+		<type>periodic</type>
+		<period>800</period>
+		<priority>5</priority>
+		<instance_creation>singleton</instance_creation>
+	</execution_semantics>
+	<properties />
+	<data_type_list />
+	<defined_data_types />
+	<defined_service_types>
+		<defined_service_type>LaserScannerService.xml</defined_service_type>
+	</defined_service_types>
+	<exports />
+	<ports>
+		<service_port>
+			<name>LaserScannerService</name>
+			<description />
+			<type>LaserScannerService</type>
+			<usage>required</usage>
+			<reference>LaserScannerService.xml</reference>
+			<layout>545,787,137,47</layout>
+		</service_port>
+	</ports>
+</component_profile>
+

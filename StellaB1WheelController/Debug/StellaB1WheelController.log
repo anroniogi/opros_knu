@@ -1,0 +1,62 @@
+﻿  StellaB1WheelController.cpp
+c:\opros_2015\worskpace_170904\stellab1wheelcontroller\stellab1wheelcontroller.cpp(1687): warning C4129: 'S': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+c:\opros_2015\worskpace_170904\stellab1wheelcontroller\stellab1wheelcontroller.cpp(1698): warning C4129: 'S': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+c:\opros_2015\worskpace_170904\stellab1wheelcontroller\stellab1wheelcontroller.cpp(1703): warning C4129: 'S': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+c:\opros_2015\worskpace_170904\stellab1wheelcontroller\stellab1wheelcontroller.cpp(1709): warning C4129: 'S': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+c:\opros_2015\worskpace_170904\stellab1wheelcontroller\stellab1wheelcontroller.cpp(1727): warning C4129: 'S': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+c:\opros_2015\worskpace_170904\stellab1wheelcontroller\stellab1wheelcontroller.cpp(1735): warning C4129: 'S': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+c:\opros_2015\worskpace_170904\stellab1wheelcontroller\stellab1wheelcontroller.cpp(1744): warning C4129: 'S': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+c:\opros_2015\worskpace_170904\stellab1wheelcontroller\stellab1wheelcontroller.cpp(1753): warning C4129: 'S': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+c:\opros_2015\worskpace_170904\stellab1wheelcontroller\stellab1wheelcontroller.cpp(1761): warning C4129: 'S': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+  StellaB1Tester.cpp
+  StellaB1.cpp
+c:\opros_2015\worskpace_170904\stellab1wheelcontroller\stellab1.cpp(273): warning C4838: 'char'에서 'unsigned char'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\opros_2015\worskpace_170904\stellab1wheelcontroller\stellab1.cpp(273): warning C4838: 'int'에서 'unsigned char'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\opros_2015\worskpace_170904\stellab1wheelcontroller\stellab1.cpp(282): warning C4838: 'char'에서 'unsigned char'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\opros_2015\worskpace_170904\stellab1wheelcontroller\stellab1.cpp(282): warning C4838: 'int'에서 'unsigned char'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\opros_2015\worskpace_170904\stellab1wheelcontroller\stellab1.cpp(286): warning C4838: 'char'에서 'unsigned char'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\opros_2015\worskpace_170904\stellab1wheelcontroller\stellab1.cpp(286): warning C4838: 'int'에서 'unsigned char'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\opros_2015\worskpace_170904\stellab1wheelcontroller\stellab1.cpp(302): warning C4838: 'char'에서 'unsigned char'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\opros_2015\worskpace_170904\stellab1wheelcontroller\stellab1.cpp(302): warning C4838: 'int'에서 'unsigned char'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\opros_2015\worskpace_170904\stellab1wheelcontroller\stellab1.cpp(315): warning C4838: 'char'에서 'unsigned char'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\opros_2015\worskpace_170904\stellab1wheelcontroller\stellab1.cpp(315): warning C4838: 'int'에서 'unsigned char'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\opros_2015\worskpace_170904\stellab1wheelcontroller\stellab1.cpp(332): warning C4838: 'char'에서 'unsigned char'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\opros_2015\worskpace_170904\stellab1wheelcontroller\stellab1.cpp(332): warning C4838: 'int'에서 'unsigned char'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\opros_2015\worskpace_170904\stellab1wheelcontroller\stellab1.cpp(349): warning C4838: 'char'에서 'unsigned char'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\opros_2015\worskpace_170904\stellab1wheelcontroller\stellab1.cpp(349): warning C4838: 'int'에서 'unsigned char'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\opros_2015\worskpace_170904\stellab1wheelcontroller\stellab1.cpp(358): warning C4838: 'StellaB1::StopMode'에서 'unsigned char'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\opros_2015\worskpace_170904\stellab1wheelcontroller\stellab1.cpp(367): warning C4838: 'StellaB1::ResetMode'에서 'unsigned char'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\opros_2015\worskpace_170904\stellab1wheelcontroller\stellab1.cpp(801): warning C4838: 'int'에서 'unsigned char'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\opros_2015\worskpace_170904\stellab1wheelcontroller\stellab1.cpp(816): warning C4838: 'int'에서 'unsigned char'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\opros_2015\worskpace_170904\stellab1wheelcontroller\stellab1.cpp(820): warning C4838: 'int'에서 'unsigned char'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\opros_2015\worskpace_170904\stellab1wheelcontroller\stellab1.cpp(835): warning C4838: 'int'에서 'unsigned char'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\opros_2015\worskpace_170904\stellab1wheelcontroller\stellab1.cpp(839): warning C4838: 'int'에서 'unsigned char'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\opros_2015\worskpace_170904\stellab1wheelcontroller\stellab1.cpp(854): warning C4838: 'int'에서 'unsigned char'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\opros_2015\worskpace_170904\stellab1wheelcontroller\stellab1.cpp(857): warning C4838: 'int'에서 'unsigned char'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\opros_2015\worskpace_170904\stellab1wheelcontroller\stellab1.cpp(872): warning C4838: 'int'에서 'unsigned char'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\opros_2015\worskpace_170904\stellab1wheelcontroller\stellab1.cpp(875): warning C4838: 'int'에서 'unsigned char'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\opros_2015\worskpace_170904\stellab1wheelcontroller\stellab1.cpp(891): warning C4838: 'int'에서 'unsigned char'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\opros_2015\worskpace_170904\stellab1wheelcontroller\stellab1.cpp(901): warning C4838: 'int'에서 'unsigned char'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\opros_2015\worskpace_170904\stellab1wheelcontroller\stellab1.cpp(911): warning C4838: 'int'에서 'unsigned char'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\opros_2015\worskpace_170904\stellab1wheelcontroller\stellab1.cpp(921): warning C4838: 'int'에서 'unsigned char'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\opros_2015\worskpace_170904\stellab1wheelcontroller\stellab1.cpp(940): warning C4838: 'int'에서 'unsigned char'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\opros_2015\worskpace_170904\stellab1wheelcontroller\stellab1.cpp(950): warning C4838: 'int'에서 'unsigned char'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\opros_2015\worskpace_170904\stellab1wheelcontroller\stellab1.cpp(960): warning C4838: 'int'에서 'unsigned char'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\opros_2015\worskpace_170904\stellab1wheelcontroller\stellab1.cpp(970): warning C4838: 'int'에서 'unsigned char'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\opros_2015\worskpace_170904\stellab1wheelcontroller\stellab1.cpp(989): warning C4838: 'int'에서 'unsigned char'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\opros_2015\worskpace_170904\stellab1wheelcontroller\stellab1.cpp(999): warning C4838: 'int'에서 'unsigned char'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\opros_2015\worskpace_170904\stellab1wheelcontroller\stellab1.cpp(1009): warning C4838: 'int'에서 'unsigned char'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\opros_2015\worskpace_170904\stellab1wheelcontroller\stellab1.cpp(1019): warning C4838: 'int'에서 'unsigned char'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\opros_2015\worskpace_170904\stellab1wheelcontroller\stellab1.cpp(1038): warning C4838: 'int'에서 'unsigned char'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\opros_2015\worskpace_170904\stellab1wheelcontroller\stellab1.cpp(1048): warning C4838: 'int'에서 'unsigned char'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\opros_2015\worskpace_170904\stellab1wheelcontroller\stellab1.cpp(1058): warning C4838: 'int'에서 'unsigned char'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\opros_2015\worskpace_170904\stellab1wheelcontroller\stellab1.cpp(1068): warning C4838: 'int'에서 'unsigned char'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\opros_2015\worskpace_170904\stellab1wheelcontroller\stellab1.cpp(1085): warning C4838: 'int'에서 'unsigned char'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\opros_2015\worskpace_170904\stellab1wheelcontroller\stellab1.cpp(1099): warning C4838: 'int'에서 'unsigned char'(으)로의 변환에는 축소 변환이 필요합니다.
+  SerialWindows.cpp
+  SerialLinux.cpp
+  SerialCommunication.cpp
+  코드를 생성하고 있습니다...
+     C:\OPRoS_2015\worskpace_170904\StellaB1WheelController\Debug\StellaB1WheelController.lib 라이브러리 및 C:\OPRoS_2015\worskpace_170904\StellaB1WheelController\Debug\StellaB1WheelController.exp 개체를 생성하고 있습니다.
+  StellaB1WheelController.vcxproj -> C:\OPRoS_2015\worskpace_170904\StellaB1WheelController\Debug\StellaB1WheelController.dll
+  StellaB1WheelController.vcxproj -> C:\OPRoS_2015\worskpace_170904\StellaB1WheelController\Debug\StellaB1WheelController.pdb (Full PDB)

@@ -1,0 +1,7 @@
+Manifest-Version:1.0
+Archive-type:OPRoS_Component
+Archive-name:VisibilityGraphPathPlanningComp.tar
+Archive-description:
+Archive-Element:VisibilityGraphPathPlanningComp.xml
+Shared-library:lib/
+

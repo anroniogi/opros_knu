@@ -1,0 +1,25 @@
+﻿빌드 시작: 2017-08-03 오후 8:03:45
+     1>2 노드의 "D:\opros_programs\OPRoS_IDE_v2.1.3_Windows_20160729\workspace_deviceAPI\SerialCommunication\SerialCommunication.vcxproj" 프로젝트(build 대상)입니다.
+     1>InitializeBuildStatus:
+         "AlwaysCreate"이(가) 지정되었기 때문에 "Release\SerialCommunication.unsuccessfulbuild"을(를) 만들고 있습니다.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ID:\opros_programs\OPRoS_IDE_v2.1.3_Windows_20160729\OPRoS_external_package\VisualStudio2010\include /I..\..\..\include\device /I"D:\OPRoS_SW\opros_Abalone_1.2a-dev_20140125\include" /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D SERIALCOMMUNICATION_EXPORTS /D _WINDLL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt SerialWindows.cpp
+         SerialWindows.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\opros_programs\OPRoS_IDE_v2.1.3_Windows_20160729\workspace_deviceAPI\SerialCommunication\Release\SerialCommunication.dll" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\SerialCommunication.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\opros_programs\OPRoS_IDE_v2.1.3_Windows_20160729\workspace_deviceAPI\SerialCommunication\Release\SerialCommunication.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\opros_programs\OPRoS_IDE_v2.1.3_Windows_20160729\workspace_deviceAPI\SerialCommunication\Release\SerialCommunication.lib" /MACHINE:X86 /DLL Release\SerialCommunication.obj
+         Release\SerialLinux.obj
+         Release\SerialWindows.obj
+            D:\opros_programs\OPRoS_IDE_v2.1.3_Windows_20160729\workspace_deviceAPI\SerialCommunication\Release\SerialCommunication.lib 라이브러리 및 D:\opros_programs\OPRoS_IDE_v2.1.3_Windows_20160729\workspace_deviceAPI\SerialCommunication\Release\SerialCommunication.exp 개체를 생성하고 있습니다.
+         코드를 생성하고 있습니다.
+         코드를 생성했습니다.
+         SerialCommunication.vcxproj -> D:\opros_programs\OPRoS_IDE_v2.1.3_Windows_20160729\workspace_deviceAPI\SerialCommunication\Release\SerialCommunication.dll
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\opros_programs\OPRoS_IDE_v2.1.3_Windows_20160729\workspace_deviceAPI\SerialCommunication\Release\SerialCommunication.dll;#2" /manifest Release\SerialCommunication.dll.intermediate.manifest
+       FinalizeBuildStatus:
+         "Release\SerialCommunication.unsuccessfulbuild" 파일을 삭제하고 있습니다.
+         "Release\SerialCommunication.lastbuildstate"에 연결(touching)하고 있습니다.
+     1>"D:\opros_programs\OPRoS_IDE_v2.1.3_Windows_20160729\workspace_deviceAPI\SerialCommunication\SerialCommunication.vcxproj" 프로젝트를 빌드했습니다(build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:03.18
