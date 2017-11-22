@@ -3,7 +3,7 @@
 	<id>6636d400-5e50-4106-8d05-02d1339cdd36</id>
 	<name>MobileControllerComp</name>
 	<version>1.0</version>
-	<layout>1236,263,250,200</layout>
+	<layout>981,528,250,200</layout>
 	<collapsed>0</collapsed>
 	<copyright>
 		<company>
@@ -70,7 +70,7 @@
 			<type>MobileControllerService</type>
 			<usage>provided</usage>
 			<reference>MobileControllerService.xml</reference>
-			<layout>1072,294,180,32</layout>
+			<layout>1215,562,180,32</layout>
 		</service_port>
 		<data_port>
 			<name>velocity</name>
@@ -80,7 +80,7 @@
 			<reference />
 			<queueing_policy>FIFO</queueing_policy>
 			<queue_size>10</queue_size>
-			<layout>1332,447,46,47</layout>
+			<layout>919,667,78,32</layout>
 		</data_port>
 	</ports>
 </component_profile>

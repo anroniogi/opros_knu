@@ -442,6 +442,12 @@ void SLAMComp::DoSLAMOneCycle()
 	//user code hear
 	Localize();
 	Mapping();
+	//17-11-09 상규추가
+	/*for(int i=0; i<particles.size();i++){
+		std::cout<<	particles.;
+	}*/
+	std::cout <<"파티클 사이즈 : "<<particles.size<<std::endl;
+
 }
 
 bool SLAMComp::Localize()
